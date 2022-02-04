@@ -1,6 +1,5 @@
 ## Welcome to my Github! 
-### Frontend Developer with a little of UX/UI
-
+> Frontend Developer con alma de UX/UI, que le gusta aprender nuevas cosas y no le tiene miedo a los desafíos, aprendiendo siempre de los fracasos como de las victorias, me gusta estar atento a los detalles y fascinado con la buena estructura.
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
