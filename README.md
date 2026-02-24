@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I am a **Fullstack Developer** focused on solving real-world problems through efficient code. My goal is to build tools that modernize traditional industries.
+I'm a **Fullstack Developer** focused on solving real-world problems through efficient code. My goal is to build tools that modernize traditional industries.
 
 **Language Note:** I am a native Spanish speaker with **Technical English** proficiency (reading documentation & writing code).
 
